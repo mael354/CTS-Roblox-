@@ -1,2 +1,4 @@
-+Test du script de UI
-+ Fix de certain bug 
++ Ajout d'un système de maitenance
++ améliorations script météo
++ fix de bugs
++ test 
