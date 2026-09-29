@@ -1,5 +1,3 @@
 + Ajout d'un système de maitenance
 + améliorations script météo
 + fix de bugs
-+ ajout d'un ui de parking
-+ plus de choses
