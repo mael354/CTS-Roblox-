@@ -1,5 +1,18 @@
-+ Ajout d'un système de maitenance
+Tu fais une modification
+       ↓
+COMMIT 1
 
-+ améliorations script météo
+Tu fais une autre modification
+       ↓
+COMMIT 2
 
-+ fix de bugs
+Tu fais une autre modification
+       ↓
+COMMIT 3
+
+          ↓
+      PUSH UNE FOIS
+          ↓
+       DISCORD
+          ↓
+   "3 new commits"
