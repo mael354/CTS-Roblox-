@@ -1,5 +1,5 @@
 {
   "title": "titleful",
-  "description": "descriptive",
+  "description": "test",
   "color": 16766720
 }
