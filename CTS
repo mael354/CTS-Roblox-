@@ -1,6 +1,10 @@
 git add .
-git commit -m "Correction du bug Y"
-git push
+git commit -m "Premier commit"
+
+# fais ta deuxième modification
+
 git add .
-git commit -m "Ajout de la fonctionnalité X"
+git commit -m "Deuxième commit"
+
+# seulement maintenant
 git push
