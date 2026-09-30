@@ -1,3 +1,3 @@
 + avancement du jeux 
 + fix de plusieur bug
-+ test
++ ajout des historique de mise a jour
