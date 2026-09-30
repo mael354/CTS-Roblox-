@@ -1,2 +1,5 @@
++ Test de la météo
 + Fix de plusieur bug sur le script
-avancement de la map 
++ avancement de la map
++ Ajout d'un script de discord relié au serveur pour tester si tout marche bien
++
