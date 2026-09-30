@@ -1,1 +1,6 @@
-+avancement du jeux 
+git add .
+git commit -m "Correction du bug Y"
+git push
+git add .
+git commit -m "Ajout de la fonctionnalité X"
+git push
