@@ -1,18 +1,2 @@
-Tu fais une modification
-       ↓
-COMMIT 1
-
-Tu fais une autre modification
-       ↓
-COMMIT 2
-
-Tu fais une autre modification
-       ↓
-COMMIT 3
-
-          ↓
-      PUSH UNE FOIS
-          ↓
-       DISCORD
-          ↓
-   "3 new commits"
++ avancement du jeux 
++ fix de plusieur bug
