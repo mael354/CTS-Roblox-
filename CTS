@@ -1,5 +1,4 @@
-+ Test de la météo
-+ Fix de plusieur bug sur le script
-+ avancement de la map
-+ Ajout d'un script de discord relié au serveur pour tester si tout marche bien
-+
+Reverts mael354/CTS-Roblox-#3
++ test with a lot of script see if its works
++ working on script update
++ if fail i restart
