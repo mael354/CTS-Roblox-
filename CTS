@@ -1,10 +1,5 @@
 git add .
 git commit -m "Premier commit"
-
-# fais ta deuxième modification
-
 git add .
 git commit -m "Deuxième commit"
-
-# seulement maintenant
 git push
