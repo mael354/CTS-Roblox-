@@ -1,3 +1,1 @@
-+ avancement du jeux 
-+ fix de plusieur bug
-+ ajout des historique de mise a jour
++avancement du jeux 
